@@ -1,2 +1,1 @@
-# Aman
-privacy policy page
+# Privacy Policy
